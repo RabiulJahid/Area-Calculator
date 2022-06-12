@@ -1,0 +1,11 @@
+
+.rec, .sqar, .tri, .cri {
+    display: none;
+}
+
+.details{
+    font-size: 35px;
+    color: red;
+    font-weight: 900;
+}
+
